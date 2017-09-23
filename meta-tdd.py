@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 class TestCase:
     def __init__(self, name):
         self.wasRun = None
