@@ -4,4 +4,4 @@ python:
   - "2.7"
 
 script:
-  - meta-tdd.py
+  - ./meta-tdd.py
